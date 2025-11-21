@@ -1,0 +1,24 @@
+.customer_dash {background:#fafdff}
+.customer_dash .card-box{background: #e8f9ea;}
+.customer_dash .card{background: #41b854;}
+.customer_dash .card-body{background: #fff;}
+.customer_dash .card label{color: #fff;}
+.customer_dash .form-control{background:#fff;color: #000;}
+.customer_dash .text-muted {color: #191c1e !important;}
+.customer_dash .breadcrumb-item.active {color: #000;}
+.customer_dash .breadcrumb-item > a {color: #000;}
+.customer_dash .left-side-menu #sidebar-menu > ul > li:hover > a{background: #004e98!important}
+.customer_dash #sidebar-menu > ul > li > a.active{background: #004e98;}
+.customer_dash #sidebar-menu > ul > li > a.active *{fill: #fff;color: #fff;}
+.customer_dash #sidebar-menu > ul > li > a:hover{background: #004e98;}
+.customer_dash #sidebar-menu > ul > li > a:hover *{fill: #fff;color: #fff;}
+.customer_dash .change-avatar{color: #fff;}
+.customer_dash .footer{background: #004e98;padding: 12px 15px 8px;}
+.customer_dash .footer *{color: #fff;}
+.customer_dash .footer a:hover{color: #fff!important;}
+.customer_dash .profile-preview .avatar-preview .avatar{border: 2px solid  #004e98;}
+.customer_dash .user-nav-list a.nav-user{background:#0a4e9f;color: #fff !important;}
+.customer_dash .navbar-custom .dropdown.show .nav-user{background:#0a4e9f;}
+.customer_dash .profile-dropdown .dropdown-item:hover{background:#0a4e9f;color: #fff !important;}
+.customer_dash .btn-success{background: #00558b;}
+.customer_dash .btn-warning{background: #00558b;}
